@@ -3,3 +3,4 @@ jsx/yarn.lock
 *.sqlite
 components/package-lock.json
 *.lock
+seasons/package-lock.json
