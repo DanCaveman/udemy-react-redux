@@ -1,3 +1,4 @@
 *.suo
 *.sqlite
 videos/.idea/
+node_modules/
