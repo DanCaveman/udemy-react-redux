@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "This is a test of the json-server",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Awesome Stream",
+      "id": 2
+    },
+    {
+      "title": "love",
+      "description": "boop is great",
+      "id": 3
+    },
+    {
+      "title": "tryagain",
+      "description": "beep",
+      "id": 4
+    },
+    {
+      "title": "burgler",
+      "description": "I want this to work",
+      "id": 5
+    },
+    {
+      "title": "burgler",
+      "description": "this is really new",
+      "id": 6
+    }
+  ]
+}
