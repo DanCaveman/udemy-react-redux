@@ -1,34 +1,44 @@
 {
   "streams": [
     {
-      "title": "First Stream",
-      "description": "This is a test of the json-server",
-      "id": 1
+      "title": "home",
+      "description": "yay, testing is fun",
+      "id": 7
     },
     {
-      "title": "Second Stream",
-      "description": "Awesome Stream",
-      "id": 2
+      "title": "booya",
+      "description": "testing - add me",
+      "id": 8
     },
     {
-      "title": "love",
-      "description": "boop is great",
-      "id": 3
+      "title": "userId test",
+      "description": "stream create by me",
+      "userId": "100124009109029487599",
+      "id": 9
     },
     {
-      "title": "tryagain",
-      "description": "beep",
-      "id": 4
+      "title": "Unexpected Behavior",
+      "description": "Didn't Expect that",
+      "userId": "100124009109029487599",
+      "id": 10
     },
     {
-      "title": "burgler",
-      "description": "I want this to work",
-      "id": 5
+      "title": "RouteToList - mine",
+      "description": "THis should route to list",
+      "userId": "100124009109029487599",
+      "id": 11
     },
     {
-      "title": "burgler",
-      "description": "this is really new",
-      "id": 6
+      "title": "After Refactor - test",
+      "description": "This is awesomer!",
+      "userId": "100124009109029487599",
+      "id": 12
+    },
+    {
+      "title": "This is mine - not WOOT",
+      "description": "patch request",
+      "userId": "100124009109029487599",
+      "id": 13
     }
   ]
 }
