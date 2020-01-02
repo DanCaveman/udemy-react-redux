@@ -1,16 +1,6 @@
 {
   "streams": [
     {
-      "title": "home",
-      "description": "yay, testing is fun",
-      "id": 7
-    },
-    {
-      "title": "booya",
-      "description": "testing - add me",
-      "id": 8
-    },
-    {
       "title": "userId test",
       "description": "stream create by me",
       "userId": "100124009109029487599",
@@ -39,6 +29,12 @@
       "description": "patch request",
       "userId": "100124009109029487599",
       "id": 13
+    },
+    {
+      "title": "Test Stream",
+      "description": "This is a test",
+      "userId": "100124009109029487599",
+      "id": 14
     }
   ]
 }
