@@ -18,7 +18,7 @@ export default (streamState = {}, action) =>{
         case FETCH_STREAMS:
             return {..._.mapKeys(action.payload, 'id')};
         case DELETE_STREAM:
-            return _.omit(...streamState, action.payload);
+            return delete streamState[`${action.payload}`];
         default:
             return streamState;
     }

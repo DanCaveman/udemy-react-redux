@@ -5,36 +5,6 @@
       "description": "stream create by me",
       "userId": "100124009109029487599",
       "id": 9
-    },
-    {
-      "title": "Unexpected Behavior",
-      "description": "Didn't Expect that",
-      "userId": "100124009109029487599",
-      "id": 10
-    },
-    {
-      "title": "RouteToList - mine",
-      "description": "THis should route to list",
-      "userId": "100124009109029487599",
-      "id": 11
-    },
-    {
-      "title": "After Refactor - test",
-      "description": "This is awesomer!",
-      "userId": "100124009109029487599",
-      "id": 12
-    },
-    {
-      "title": "This is mine - not WOOT",
-      "description": "patch request",
-      "userId": "100124009109029487599",
-      "id": 13
-    },
-    {
-      "title": "Test Stream",
-      "description": "This is a test",
-      "userId": "100124009109029487599",
-      "id": 14
     }
   ]
 }
